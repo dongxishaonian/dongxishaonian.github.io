@@ -1,2 +1,0 @@
-# dongxishaonian.github.io
-write

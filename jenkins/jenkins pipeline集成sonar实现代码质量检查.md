@@ -1,4 +1,4 @@
-[返回上层](../index)
+[返回上层](index)
 # jenkins pipeline集成sonar实现代码质量检查
 ## 1.sonarQube的简介
 

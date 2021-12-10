@@ -1,4 +1,4 @@
-[返回上层](../index)
+[返回上层](index)
 
 # Question❓
 

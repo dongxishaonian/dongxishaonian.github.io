@@ -1,3 +1,4 @@
+[返回上层](index)
 # Spring Boot2+Resilience4j实现容错之Bulkhead
 
 > Resilience4j是一个轻量级、易于使用的容错库，其灵感来自Netflix Hystrix，但专为Java 8和函数式编程设计。轻量级，因为库只使用Vavr，它没有任何其他外部库依赖项。相比之下，Netflix Hystrix对Archaius有一个编译依赖关系，Archaius有更多的外部库依赖关系，如Guava和Apache Commons。

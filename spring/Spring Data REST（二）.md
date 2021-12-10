@@ -1,3 +1,4 @@
+[返回上层](index)
 # Spring Data REST不完全指南（二）
 
 上一篇文章介绍了Spring Data REST的功能及特征，以及演示了如何在项目中引入Spring Data REST并简单地启动演示了Spring Data REST项目。在本文中，我们将深入了解Spring Data REST的特性，以此来满足我们日常api开发工作的要求。

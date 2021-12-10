@@ -1,3 +1,4 @@
+[返回上层](index)
 # spring boot admin实践
 ## Over View
 [上一篇文章](https://juejin.im/post/5eba0439e51d454d9d3eda82)主要介绍了Spring Boot Admin的概况以及我们如何在系统中引入和使用Spring Boot Admin，以此来帮助我们更加了解自己的系统，做到能快速发现、排查问题。本篇文章将用代码演示Spring Boot Admin的消息通知功能，并利用这个开箱即用的特性来个性化我们的需求，优化我们在服务治理方面的工作效率。

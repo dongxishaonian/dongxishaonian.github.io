@@ -37,7 +37,7 @@ Jenkins pipeline-as-code 使您可以在项目/应用程序源代码存储库中
 
 创建完之后在首页会显示
 
-![image-20200403155507717](https://images.cnblogs.com/cnblogs_com/dongxishaonian/1688642/o_200403075535image-20200403155507717.png)
+![image-20200403155507717](http://dxsn-1300740068.cos.ap-nanjing.myqcloud.com/2021-12-10-163054.png)
 
 创建完成。
 

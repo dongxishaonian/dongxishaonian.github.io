@@ -161,7 +161,7 @@ mvn sonar:sonar \
 
 在jenkinsfile中定义代码静态检查的stage，如下图：
 
-<img src="https://images.cnblogs.com/cnblogs_com/dongxishaonian/1693598/o_200410031623image-20200409234426724.png" alt="image-20200409234426724" style="zoom:50%;" />
+<img src="http://dxsn-1300740068.cos.ap-nanjing.myqcloud.com/2021-12-10-162922.png" alt="image-20200409234426724" style="zoom:50%;" />
 
 上图中定义了两个stage，1.代码静态检查  2.检查结果分析
 

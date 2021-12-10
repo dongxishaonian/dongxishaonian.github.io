@@ -27,11 +27,11 @@ git中有四种原子对象，由这四种原子对象构成了git高层数据�
 
 #### 一个提交
 
-![未命名绘图](https://tva1.sinaimg.cn/large/008i3skNly1gx7s3yppzbj30cj0bfglw.jpg)
+![未命名绘图](http://dxsn-1300740068.cos.ap-nanjing.myqcloud.com/2021-12-10-080122.jpg)
 
 #### 新增一个提交
 
-![未命名绘图](https://tva1.sinaimg.cn/large/008i3skNly1gx7s48nsxbj30p10j775q.jpg)
+![未命名绘图](http://dxsn-1300740068.cos.ap-nanjing.myqcloud.com/2021-12-10-080130.jpg)
 
 一个新产生的提交，除了初始提交，都会指向一个父提交（即新提交之前的那次提交）。
 
@@ -39,7 +39,7 @@ git中有四种原子对象，由这四种原子对象构成了git高层数据�
 
 ### 图解
 
-![image-20211209180101735](https://tva1.sinaimg.cn/large/008i3skNly1gx7s4bfe6ej31ea0u0tb0.jpg)
+![image-20211209180101735](http://dxsn-1300740068.cos.ap-nanjing.myqcloud.com/2021-12-10-080138.jpg)
 
 如上图发生一次feature→master的合并，在git中，合并产生一个新的树对象（如S提交指向的树对象），该树对象包含合并之后的文件，但它只在目标分支（matser）上引入一个新的提交对象。
 
@@ -59,7 +59,7 @@ git cherrt-pick提交命令会在当前分支上应用给定提交引入的变�
 
 如下图，主干分支正在开发中，在提交B处签出分支fix进行修复操作，于此同时master分支在继续往前开发。
 
-![image-20211209180134051](https://tva1.sinaimg.cn/large/008i3skNly1gx7s4gfdytj31gw0u0acv.jpg)
+![image-20211209180134051](http://dxsn-1300740068.cos.ap-nanjing.myqcloud.com/2021-12-10-080144.jpg)
 
 上图中涉及命令：
 
@@ -81,11 +81,11 @@ gitla提供了对mr的cherry-pick功能
 
 找到一个已经被合并的mr记录，会看到页面中有一个cherry-pick的按钮
 
-![image-20211209185733562](/Users/chengang/Downloads/008i3skNly1gx7s7ul86tj32g00ew0us.jpg)
+![image-20211209185733562](http://dxsn-1300740068.cos.ap-nanjing.myqcloud.com/2021-12-10-080151.jpg)
 
 点击cherry-pick按钮，选择要cherry-pick的目标分支
 
-![image-20211209180412937](https://tva1.sinaimg.cn/large/008i3skNly1gx7s5g4r9zj31lq0smn0q.jpg)
+![image-20211209180412937](http://dxsn-1300740068.cos.ap-nanjing.myqcloud.com/2021-12-10-080155.jpg)
 
 根据选项，点击cherry-pick按钮后，将新建一个mr还是直接进行cherry-pick。
 
@@ -95,11 +95,11 @@ gitla提供了对mr的cherry-pick功能
 
 不生成mr的情况下cherry-pick
 
-![image-20211209180444610](https://tva1.sinaimg.cn/large/008i3skNly1gx7s5ds5fej31p00u0tb6.jpg)
+![image-20211209180444610](http://dxsn-1300740068.cos.ap-nanjing.myqcloud.com/2021-12-10-080202.jpg)
 
 生成mr的情况下 cherry-pick
 
-![image-20211209180505180](https://tva1.sinaimg.cn/large/008i3skNly1gx7s5ayl2aj31p40u0diz.jpg)
+![image-20211209180505180](http://dxsn-1300740068.cos.ap-nanjing.myqcloud.com/2021-12-10-080210.jpg)
 
 ### 注意点
 
@@ -117,7 +117,7 @@ git revert的 原理和git cherrty-pick的原理相似，只不过它是应用�
 
 ### 图解
 
-![image-20211209180550411](https://tva1.sinaimg.cn/large/008i3skNly1gx7s579po3j32610u0djf.jpg)
+![image-20211209180550411](http://dxsn-1300740068.cos.ap-nanjing.myqcloud.com/2021-12-10-080218.jpg)
 
 
 
@@ -139,13 +139,13 @@ git rebase一个常见的使用场景是保持你正在开发的一系列提交�
 
 有两个分支正在开发中，最初topic分支是从master分支的提交B处开始的。在此期间master分支已经进展到提交E
 
-![image-20211209180627970](https://tva1.sinaimg.cn/large/008i3skNly1gx7s54i52lj329y0t4goc.jpg)
+![image-20211209180627970](http://dxsn-1300740068.cos.ap-nanjing.myqcloud.com/2021-12-10-080225.jpg)
 
 
 
 可以改写提交让他们基于提交E而不是提交B，这样提交相对于master就是最新的了。
 
-![image-20211209180654903](https://tva1.sinaimg.cn/large/008i3skNly1gx7s5084lxj32ck0m6dhl.jpg)
+![image-20211209180654903](http://dxsn-1300740068.cos.ap-nanjing.myqcloud.com/2021-12-10-080233.jpg)
 
 
 

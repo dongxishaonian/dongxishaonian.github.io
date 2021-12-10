@@ -1,5 +1,5 @@
 [返回上层](../index)
-# spring
+# Spring
 * [Spring中的设计模式](Spring中的设计模式)
 * [Spring Data REST（一）](Spring Data REST（一）)
 * [Spring Data REST（二）](Spring Data REST（二）)

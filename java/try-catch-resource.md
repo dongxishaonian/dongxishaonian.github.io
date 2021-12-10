@@ -150,10 +150,15 @@ private void orderOfClosingResources() throws Exception {
 **输出：**
 
 > *Constructor -> AutoCloseableResources_First*
+> 
 > *Constructor -> AutoCloseableResources_Second*
+> 
 > *Something -> AutoCloseableResources_First*
+> 
 > *Something -> AutoCloseableResources_Second*
+> 
 > *Closed AutoCloseableResources_Second*
+> 
 > *Closed AutoCloseableResources_First*
 
 ---

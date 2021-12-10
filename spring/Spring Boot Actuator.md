@@ -248,7 +248,7 @@ public class LoginServiceImpl {
 
 首先，我们需要让新的端点实现endpoint<T>接口：
 
-```json
+```java
 @Component
 public class CustomEndpoint implements Endpoint<List<String>> {
      

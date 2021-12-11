@@ -156,7 +156,7 @@ pipeline {
 
 如下（示例中使用gitlab，如果是其他仓库，可参考各仓库文档）：
 
-![https://images.cnblogs.com/cnblogs_com/dongxishaonian/1688642/o_200403081043image-20200403160957637.png](http://dxsn-1300740068.cos.ap-nanjing.myqcloud.com/2021-12-10-162148.png)
+![http://dxsn-1300740068.cos.ap-nanjing.myqcloud.com/2021-12-10-162148.png](http://dxsn-1300740068.cos.ap-nanjing.myqcloud.com/2021-12-10-162148.png)
 
 之后点击add webhook保存。
 

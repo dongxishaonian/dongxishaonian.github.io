@@ -53,7 +53,7 @@ $ native-image --version
 
 ![img](http://dxsn-1300740068.cos.ap-nanjing.myqcloud.com/2021-12-11-112827.jpg)
 
-IDEA打开[上一篇文章](http://blog.dongxishaonian.tech/?p=824)创建的项目，并打开控制台，执行maven命令：
+IDEA打开[上一篇文章](云原生时代高性能Java框架—Quarkus（一）)创建的项目，并打开控制台，执行maven命令：
 
 ```bash
 ./mvnw package -Pnative

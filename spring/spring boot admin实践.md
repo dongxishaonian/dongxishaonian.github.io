@@ -1,7 +1,7 @@
 [返回上层](index)
 # spring boot admin实践
 ## Over View
-[上一篇文章](https://juejin.im/post/5eba0439e51d454d9d3eda82)主要介绍了Spring Boot Admin的概况以及我们如何在系统中引入和使用Spring Boot Admin，以此来帮助我们更加了解自己的系统，做到能快速发现、排查问题。本篇文章将用代码演示Spring Boot Admin的消息通知功能，并利用这个开箱即用的特性来个性化我们的需求，优化我们在服务治理方面的工作效率。
+[上一篇文章](Spring Boot Admin简介)主要介绍了Spring Boot Admin的概况以及我们如何在系统中引入和使用Spring Boot Admin，以此来帮助我们更加了解自己的系统，做到能快速发现、排查问题。本篇文章将用代码演示Spring Boot Admin的消息通知功能，并利用这个开箱即用的特性来个性化我们的需求，优化我们在服务治理方面的工作效率。
 
 Spring Boot Admin内置了多种开箱即用的系统通知渠道，包括邮件、Slack、Telegram、Hipchat等多种社交媒体的通知渠道。但是考虑到它所支持的大都是一些国外的主流社交媒体，在国内的本地化可能并不是那么的友好。不过没关系Spring Boot Admin也提供了通用的接口，使得用户可以基于他所有提供的接口来自定义通知方式。下面使用Spring Boot Admin的通知功能来实现基于邮件和国内办公软件“飞书”的服务健康预警。
 

@@ -1,14 +1,14 @@
 [返回上层](index)
 # 云原生时代高性能Java框架—Quarkus（二）
 
-*[**——— 构建Quarkus本地镜像、容器化部署Quarkus项目**](http://blog.dongxishaonian.tech/?p=898)*
+*构建Quarkus本地镜像、容器化部署Quarkus项目*
 
 ------
 
 ***Quarkus系列博文***
 
-- *[Quarkus&GraalVM介绍、创建并启动第一个项目](http://blog.dongxishaonian.tech/?p=824)*
-- *[构建Quarkus本地镜像、容器化部署Quarkus项目](http://blog.dongxishaonian.tech/?p=898)*
+- *[Quarkus&GraalVM介绍、创建并启动第一个项目](云原生时代高性能Java框架—Quarkus（一）)*
+- 构建Quarkus本地镜像、容器化部署Quarkus项目*
 - *...*
 
 ------

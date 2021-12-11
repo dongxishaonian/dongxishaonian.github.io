@@ -1,14 +1,14 @@
 [返回上层](index)
 # 云原生时代高性能Java框架—Quarkus（一）
 
-*[**——— Quarkus&GraalVM介绍、创建并启动第一个项目**](http://blog.dongxishaonian.tech/?p=824)*
+*Quarkus&GraalVM介绍、创建并启动第一个项目*
 
 ------
 
 ***Quarkus系列博文***
 
-- *[Quarkus&GraalVM介绍、创建并启动第一个项目](http://blog.dongxishaonian.tech/archives/789（在新窗口中打开）)*
-- *构建Quarkus本地镜像、容器化部署Quarkus项目*
+- *Quarkus&GraalVM介绍、创建并启动第一个项目*
+- *[构建Quarkus本地镜像、容器化部署Quarkus项目](云原生时代高性能Java框架—Quarkus（二）)*
 - *...*
 
 ------

@@ -1,0 +1,5 @@
+[返回上层](../index)
+# DevOps
+* [理解敏捷的价值观和原则](理解敏捷的价值观和原则)
+* [本地运行runner并注册到gitlab](本地运行runner并注册到gitlab)
+* 

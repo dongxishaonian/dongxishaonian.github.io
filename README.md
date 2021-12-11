@@ -12,3 +12,5 @@
 * ### *[自动化测试](自动化测试/index)*
 * ### *[Others](others/index)*
 * ### *[工程设计](工程设计/index)*
+* ### *[开发工具](开发工具/index)*
+* ### *[Devops](devops/index)*

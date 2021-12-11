@@ -9,4 +9,6 @@
 * [spring boot admin实践](spring boot admin实践)
 * [Spring Boot Admin简介](Spring Boot Admin简介)
 * [Spring Boot Actuator](Spring Boot Actuator)
+* [使用Spring Boot DevTools优化你的开发体验](使用Spring Boot DevTools优化你的开发体验)
+* [个性化Spring Boot Admin高级特性](个性化Spring Boot Admin高级特性)
 

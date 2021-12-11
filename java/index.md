@@ -4,5 +4,9 @@
 * [GraalVM an introduction to the next level JVM](GraalVM an introduction to the next level JVM)
 * [云原生时代高性能Java框架—Quarkus（一）](云原生时代高性能Java框架—Quarkus（一）)
 * [云原生时代高性能Java框架—Quarkus（二）](云原生时代高性能Java框架—Quarkus（二）)
+* [使用Maven Archetype创建Java项目模板](使用Maven Archetype创建Java项目模板)
+* [除了FastJson，你也应该了解一下Jackson（一）](除了FastJson，你也应该了解一下Jackson（一）)
+* [除了FastJson，你也应该了解一下Jackson（二）](除了FastJson，你也应该了解一下Jackson（二）)
+
 
 

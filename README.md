@@ -9,3 +9,5 @@
 * ### *[Java](java/index)*
 * ### *[K8s及周边](k8s及周边/index)*
 * ### *[Jenkins](jenkins/index)*
+* ### *[自动化测试](自动化测试/index)*
+* ### *[Others](others/index)*

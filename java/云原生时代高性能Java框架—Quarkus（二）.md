@@ -15,7 +15,7 @@
 
 ## 概览
 
-[上一篇文章](http://blog.dongxishaonian.tech/?p=824)主要介绍了Quarkus以及给Quarkus提供“神力”的Java虚拟机GraalVM，并演示了如何安装GraalVM以及Quarkus的初步用法。本文将主要指向Quarkus的“亮点”——本地化应用程序。
+[上一篇文章](云原生时代高性能Java框架—Quarkus（一）)主要介绍了Quarkus以及给Quarkus提供“神力”的Java虚拟机GraalVM，并演示了如何安装GraalVM以及Quarkus的初步用法。本文将主要指向Quarkus的“亮点”——本地化应用程序。
 
 **以下是本文的两个目标：**
 

@@ -23,6 +23,8 @@ DevOps工程师&Java工程师，在职（[https://www.kujiale.com](https://www.k
 
 - 邮箱：cg837718548@icloud.com
 - 微信：cg8377
+- twitter：[@dongxishaonian](https://twitter.com/dongxishaonian)
+- 领英：[https://www.linkedin.com/in/dongxishaonian](https://www.linkedin.com/in/dongxishaonian)
 
 **👋欢迎关注我的公众号**
 

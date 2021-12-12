@@ -1,5 +1,5 @@
 # 💥TECH flower🦾
-## [About_Me](aboutmMe)
+**[about me](aboutMe)**
 
 ---
 ## 文章&随笔

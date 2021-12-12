@@ -102,8 +102,7 @@ HAL约定围绕着代表两个简单的概念：资源和链接。
 
 下面的图像大致说明了HAL表示的结构：
 
-![https://tva1.sinaimg.cn/large/007S8ZIlly1gdwwz2klywj30m80go0t4.jpg](/Users/chengang/Pictures/007S8ZIlly1gdwwz2klywj30m80go0t4.jpg)
-
+![https://tva1.sinaimg.cn/large/007S8ZIlly1gdwwz2klywj30m80go0t4.jpg](http://dxsn-1300740068.cos.ap-nanjing.myqcloud.com/2021-12-12-032619.jpg)
 ## HAL 在 API 中的使用方式
 
 HAL 旨在构建 API，其中客户端通过以下链接围绕资源进行导航。

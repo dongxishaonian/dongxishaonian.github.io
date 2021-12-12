@@ -10,6 +10,7 @@
 * [使用Reactor响应式编程](使用Reactor响应式编程)
 * [【译】创建和分析Java堆转储HeapDumps](【译】创建和分析Java堆转储HeapDumps)
 * [[译]高性能缓存库Caffeine介绍及实践]([译]高性能缓存库Caffeine介绍及实践)
+* [java异常有效实践](java异常有效实践)
 
 
 

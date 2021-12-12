@@ -3,7 +3,9 @@
 <img src="http://dxsn-1300740068.cos.ap-nanjing.myqcloud.com/2021-12-12-21639293082_.pic.jpg" alt="image-20200410104030284" style="zoom:20%;" />
 
 ## 📜个人信息
-👉🏻**[看这里](https://github.com/dongxishaonian)**
+DevOps工程师&Java工程师，在职（[https://www.kujiale.com](https://www.kujiale.com)）
+
+地点：hangzhou
 
 ## 💻关于技术
 - 熟悉Java服务端开发常用技术栈。

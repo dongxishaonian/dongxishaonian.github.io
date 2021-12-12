@@ -9,6 +9,7 @@
 * [除了FastJson，你也应该了解一下Jackson（二）](除了FastJson，你也应该了解一下Jackson（二）)
 * [使用Reactor响应式编程](使用Reactor响应式编程)
 * [【译】创建和分析Java堆转储HeapDumps](【译】创建和分析Java堆转储HeapDumps)
+* [[译]高性能缓存库Caffeine介绍及实践]([译]高性能缓存库Caffeine介绍及实践)
 
 
 

@@ -170,3 +170,21 @@ private void orderOfClosingResources() throws Exception {
 ## 8.总结
 
 在本文中，我们讨论了如何使用try-with-resources，如何用try-with-resources替换try，catch和finally，如何使用AutoCloseable构建自定义资源以及了解关闭资源的顺序。
+
+
+---
+---
+---
+
+
+## 🤔  💭 👇👇👇
+
+<script src="https://utteranc.es/client.js"
+        repo="dongxishaonian/issue-posted"
+        issue-term="pathname"
+        label="🙂🙃😡🥶😬🤣😄"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+

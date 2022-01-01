@@ -147,3 +147,21 @@ try {
 总之，通过忽略异常来解决异常是一件极具风险的事情，我们需要认真对待异常，并且十分清楚问题的原因以及产生的影响。
 
 ![WechatIMG6](http://dxsn-1300740068.cos.ap-nanjing.myqcloud.com/2021-12-12-031744.jpg)
+
+
+---
+---
+---
+
+
+## 🤔  💭 👇👇👇
+
+<script src="https://utteranc.es/client.js"
+        repo="dongxishaonian/issue-posted"
+        issue-term="pathname"
+        label="🙂🙃😡🥶😬🤣😄"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+

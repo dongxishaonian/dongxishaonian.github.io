@@ -113,3 +113,21 @@ Frequency：词频，表示某个文档中该词(Term)出现过几次
 4.将结果集返回给用户
 
 ![](http://dxsn-1300740068.cos.ap-nanjing.myqcloud.com/2021-12-12-042302.jpg)
+
+
+---
+---
+---
+
+
+## 🤔  💭 👇👇👇
+
+<script src="https://utteranc.es/client.js"
+        repo="dongxishaonian/issue-posted"
+        issue-term="pathname"
+        label="🙂🙃😡🥶😬🤣😄"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+

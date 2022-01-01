@@ -89,3 +89,21 @@ gitlab-runner start
 如上图，将其tag指定为本地runner的tag，提交代码后可以看到触发的gitlab ci job将会在我们新注册的本地runner中运行👌：
 
 ![image-20211011082444717](http://dxsn-1300740068.cos.ap-nanjing.myqcloud.com/2021-12-11-161542.jpg)
+
+
+---
+---
+---
+
+
+## 🤔  💭 👇👇👇
+
+<script src="https://utteranc.es/client.js"
+        repo="dongxishaonian/issue-posted"
+        issue-term="pathname"
+        label="🙂🙃😡🥶😬🤣😄"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+

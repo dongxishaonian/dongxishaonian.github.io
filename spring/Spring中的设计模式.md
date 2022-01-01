@@ -424,3 +424,21 @@ template.query("SELECT * FROM books", new BookRowMapper());
 在本教程中，我们研究了Spring框架中应用的四种最常见的设计模式。
 
 我们还探讨了Spring如何利用这些模式来提供丰富的功能，同时减轻开发人员的负担。
+
+
+---
+---
+---
+
+
+## 🤔  💭 👇👇👇
+
+<script src="https://utteranc.es/client.js"
+        repo="dongxishaonian/issue-posted"
+        issue-term="pathname"
+        label="🙂🙃😡🥶😬🤣😄"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+

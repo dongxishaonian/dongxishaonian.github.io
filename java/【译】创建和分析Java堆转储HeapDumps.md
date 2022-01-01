@@ -251,3 +251,21 @@ Eclipse Memory Analyzer (MAT) 是分析 Java 堆转储的最佳工具之一。�
 在这篇文章中，我们介绍了堆转储，它是 Java 应用程序运行时对象内存图的快照。为了说明这一点，我们从一个在运行时抛出 OutOfMemoryError 的程序中捕获了堆转储。
 
 然后我们查看了使用 Eclipse Memory Analyzer 进行堆转储分析的一些基本概念：大对象、GC 根、浅堆与保留堆以及支配树，所有这些都将帮助我们确定特定内存问题的根本原因。
+
+
+---
+---
+---
+
+
+## 🤔  💭 👇👇👇
+
+<script src="https://utteranc.es/client.js"
+        repo="dongxishaonian/issue-posted"
+        issue-term="pathname"
+        label="🙂🙃😡🥶😬🤣😄"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+

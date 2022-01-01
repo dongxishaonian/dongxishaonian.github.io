@@ -179,3 +179,21 @@ pipeline {
 ### 6.总结：
 
 jenkins能让我们轻松实现持续集成/持续部署（ci/cd）。ci/cd让我们实现代码质量内建，ci/cd中最重要的是测试自动化，没有自动化测试的持续集成只是一堆不会带来任何用处的垃圾。我们在流水线中嵌入测试自动化，代码质量检查来保证我们的开发质量。流水线能够及时给开发者反馈，这种反馈非常，当我们的流水线失败的时候，我们需要第一时间修复它，从而做到不积累结束债务，而不是继续开发别的功能。否则等到失败积累到一定程度，我们在去修复的时候，需要付出的成本将是更大的。
+
+
+---
+---
+---
+
+
+## 🤔  💭 👇👇👇
+
+<script src="https://utteranc.es/client.js"
+        repo="dongxishaonian/issue-posted"
+        issue-term="pathname"
+        label="🙂🙃😡🥶😬🤣😄"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+

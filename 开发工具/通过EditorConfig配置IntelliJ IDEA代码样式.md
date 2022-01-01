@@ -87,3 +87,21 @@ IDEA在设置层面提供了个性化代码规范的能力，打开`Preferences>
 # 总结
 
 本文主要介绍了IDEA配置代码样式的两种方式，相比于第一种XML形式的配置方式，方式二更加便捷高效，只需创建一个EditorConfig配置，无需其他配置，并且我们将EditorConfig放置在项目目录中可以做到更好的版本化。同时搭配IDEA提供的Actions on Save功能能更有效的保证团队代码样式的一致性。
+
+
+---
+---
+---
+
+
+## 🤔  💭 👇👇👇
+
+<script src="https://utteranc.es/client.js"
+        repo="dongxishaonian/issue-posted"
+        issue-term="pathname"
+        label="🙂🙃😡🥶😬🤣😄"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+

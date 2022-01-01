@@ -139,3 +139,21 @@
 
 
 本文转载自IBM中国博客：https://developer.ibm.com/cn/blog/2020/kubernetes-learning-path/
+
+
+---
+---
+---
+
+
+## 🤔  💭 👇👇👇
+
+<script src="https://utteranc.es/client.js"
+        repo="dongxishaonian/issue-posted"
+        issue-term="pathname"
+        label="🙂🙃😡🥶😬🤣😄"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+

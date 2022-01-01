@@ -213,3 +213,21 @@ mvn sonar:sonar \
 **关注笔者公众号，推送各类原创/优质技术文章 ⬇️**
 <img src="http://dxsn-1300740068.cos.ap-nanjing.myqcloud.com/2021-12-10-162353.jpg" alt="image-20200410104030284" style="zoom:50%;" />
 **java工程师一名，但不只是java工程师，涉略devops，自动化测试，ci/cd，敏捷开发等等。提供自动化测试，ci/cd等技术需求的解决方案，公众号，微信（cg8377），邮箱（837718548@qq.com）均可联系到我。也欢迎和各位做技术交流。**
+
+
+---
+---
+---
+
+
+## 🤔  💭 👇👇👇
+
+<script src="https://utteranc.es/client.js"
+        repo="dongxishaonian/issue-posted"
+        issue-term="pathname"
+        label="🙂🙃😡🥶😬🤣😄"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+

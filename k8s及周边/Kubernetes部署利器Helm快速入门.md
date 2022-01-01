@@ -201,3 +201,21 @@ helm也提供了删除release的操作，通过以下命令即可删除release�
 # 总结
 
 Helm的出现是我们可以更加便捷的去管理我们的K8s资源文件，并且是我们的K8s资源部署有了版本化的效果，我们从中可以看到历史版本的资源详情，我们也可以通过Helm提供的版本化来快速进行线上资源的回滚操作。除此之外，Helm周边还有很多管理Charts文件的工具，比如Harbor，从而让我们可以集中式、版本化的对charts文件进行管理，详情请看[Helm 仓库](https://helm.sh/zh/docs/helm/helm_repo/)。
+
+
+---
+---
+---
+
+
+## 🤔  💭 👇👇👇
+
+<script src="https://utteranc.es/client.js"
+        repo="dongxishaonian/issue-posted"
+        issue-term="pathname"
+        label="🙂🙃😡🥶😬🤣😄"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+

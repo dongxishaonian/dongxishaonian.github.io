@@ -2,7 +2,7 @@
 ## 🥸👉🏻[about me](aboutMe)
 
 ---
-## 文章&随笔
+## blog post
 
 * ### *[Git](git/index)*
 * ### *[Spring](spring/index)*

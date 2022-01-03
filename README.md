@@ -1,8 +1,7 @@
-# 💥TECH flower🦾
-## 🥸👉🏻[about me](aboutMe)
+# 🥸👇👇
+## [about me ](aboutMe)
 
----
-## blog post
+# blog post
 
 * ### *[Git](git/index)*
 * ### *[Spring](spring/index)*
@@ -18,7 +17,7 @@
 * ### *[Rethink](rethink/index)*
 * ### *[向上](向上/index)*
 
-## media
+# media
 * ### *[TDD测试驱动开发不完全指南](https://www.bilibili.com/video/BV1t64y1u7C1)*
 
 
@@ -27,7 +26,7 @@
 ---
 
 
-## 🤔  💭 👇👇👇
+# 🤔  💭 👇👇👇
 
 <script src="https://utteranc.es/client.js"
         repo="dongxishaonian/issue-posted"

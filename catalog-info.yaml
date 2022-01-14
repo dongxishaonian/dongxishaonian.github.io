@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: dongxishaonian.github.io
+  annotations:
+    github.com/project-slug: dongxishaonian/dongxishaonian.github.io
+spec:
+  type: other
+  lifecycle: unknown
+  owner: backstage

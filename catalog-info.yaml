@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: dongxishaonian/dongxishaonian.github.io
 spec:
-  type: other
+  type: 博客
   lifecycle: unknown
   owner: backstage
